@@ -1,13 +1,13 @@
 {
-    "botToken": "BOT-TOKEN-HERE",
-    "logs_channel_id": "LOGS-CHANNEL-ID-HERE",
+    "botToken": "MTIxMzgxMDM0NDE5MTk4MzY0Ng.GTkhb6.qrBk_aCp99Ft4vsRQq7YFdDM92ksY3qQ2jnHyM",
+    "logs_channel_id": "1213178802583109654",
 
-    "prefix": "*",
+    "prefix": "!",
     "command_name": "start",
     
     "give_role": false,
-    "role_name": "ROLE-NAME-HERE",
+    "role_name": "1213184238321541152",
 
     "mass_dm": 0,
-    "message": "MESSAGE-HERE"
+    "message": "https://discord.gg/RZ3aQjbebu"
 }
